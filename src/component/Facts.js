@@ -6,7 +6,7 @@ const Facts = () => {
       <section id="facts" className="facts">
         <div className="container">
           <div className="section-title">
-            <h2>Facts</h2>
+            <CommonTittle tittle={"Facts"} />
             <p>
               Magnam dolores commodi suscipit. Necessitatibus eius consequatur
               ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam

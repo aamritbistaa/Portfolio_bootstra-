@@ -8,7 +8,7 @@ const About = () => {
       <section id="about" className="about">
         <div className="container">
           <div className="section-title">
-            <CommonTittle tittle={"hello i am amrit"} />
+            <CommonTittle tittle={"About"} />
             <p>
               Magnam dolores commodi suscipit. Necessitatibus eius consequatur
               ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam
